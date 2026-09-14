@@ -31,7 +31,7 @@
 
 OSPTEK **1.78 寸 368×448 AMOLED** 是一款 **QSPI** 接口彩色显示模组，显示驱动为 **CO5300**，触摸驱动为 **CHSC6417**。适合手持终端、穿戴与小型竖屏 HMI 等场景。
 
-规格标识（仓库名）：`1.78-amoled-368x448-qspi-co5300`
+规格标识（仓库名）：`amoled-1.78-368x448-qspi-co5300`
 
 当前模组版本：**AM178Q368448LK**。电气与外形细节以 [`docs/AM178Q368448LK.pdf`](./docs/AM178Q368448LK.pdf) 为准。
 
@@ -52,12 +52,12 @@ OSPTEK **1.78 寸 368×448 AMOLED** 是一款 **QSPI** 接口彩色显示模组�
 
 | 说明 | 路径 |
 | ---- | ---- |
-| ESP32-S3 · CO5300 QSPI + CHSC6417 + LVGL | [`examples/esp32s3-1.78-amoled-368x448-qspi-co5300-bringup/`](./examples/esp32s3-1.78-amoled-368x448-qspi-co5300-bringup/) |
+| ESP32-S3 · CO5300 QSPI + CHSC6417 + LVGL | [`examples/esp32s3-amoled-1.78-368x448-qspi-co5300-bringup/`](./examples/esp32s3-amoled-1.78-368x448-qspi-co5300-bringup/) |
 
 ## 仓库结构
 
 ```text
-1.78-amoled-368x448-qspi-co5300/                                # 仓库根（导航见 ../../README.md）
+amoled-1.78-368x448-qspi-co5300/                                # 仓库根（导航见 ../../README.md）
 └── versions/
     └── AM178Q368448LK/                                # 本料号完整资料
         ├── README.md
@@ -84,7 +84,7 @@ OSPTEK **1.78 寸 368×448 AMOLED** 是一款 **QSPI** 接口彩色显示模组�
 
 ### 示例工程
 
-- [ESP32-S3 CO5300 QSPI + CHSC6417 + LVGL](./examples/esp32s3-1.78-amoled-368x448-qspi-co5300-bringup/)
+- [ESP32-S3 CO5300 QSPI + CHSC6417 + LVGL](./examples/esp32s3-amoled-1.78-368x448-qspi-co5300-bringup/)
 
 ## 购买链接
 

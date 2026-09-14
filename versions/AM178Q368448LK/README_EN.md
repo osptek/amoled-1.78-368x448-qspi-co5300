@@ -31,7 +31,7 @@
 
 OSPTEK **1.78″ 368×448 AMOLED** is a **QSPI** color display module driven by **CO5300**, with capacitive touch (**CHSC6417**). Suited to handheld devices, wearables, and compact portrait HMI.
 
-Spec ID (repository name): `1.78-amoled-368x448-qspi-co5300`
+Spec ID (repository name): `amoled-1.78-368x448-qspi-co5300`
 
 Current module version: **AM178Q368448LK**. Electrical and mechanical details follow [`docs/AM178Q368448LK.pdf`](./docs/AM178Q368448LK.pdf).
 
@@ -52,12 +52,12 @@ Current module version: **AM178Q368448LK**. Electrical and mechanical details fo
 
 | Description | Path |
 | ---- | ---- |
-| ESP32-S3 · CO5300 QSPI + CHSC6417 + LVGL | [`examples/esp32s3-1.78-amoled-368x448-qspi-co5300-bringup/`](./examples/esp32s3-1.78-amoled-368x448-qspi-co5300-bringup/) |
+| ESP32-S3 · CO5300 QSPI + CHSC6417 + LVGL | [`examples/esp32s3-amoled-1.78-368x448-qspi-co5300-bringup/`](./examples/esp32s3-amoled-1.78-368x448-qspi-co5300-bringup/) |
 
 ## Repository layout
 
 ```text
-1.78-amoled-368x448-qspi-co5300/                                # repo root (nav: ../../README_EN.md)
+amoled-1.78-368x448-qspi-co5300/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── AM178Q368448LK/                                # full materials for this part number
         ├── README.md
@@ -84,7 +84,7 @@ Current module version: **AM178Q368448LK**. Electrical and mechanical details fo
 
 ### Samples
 
-- [ESP32-S3 CO5300 QSPI + CHSC6417 + LVGL](./examples/esp32s3-1.78-amoled-368x448-qspi-co5300-bringup/)
+- [ESP32-S3 CO5300 QSPI + CHSC6417 + LVGL](./examples/esp32s3-amoled-1.78-368x448-qspi-co5300-bringup/)
 
 ## Buy
 

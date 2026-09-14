@@ -29,7 +29,7 @@ This repository holds materials for the **1.78″ 368×448 AMOLED (QSPI · CO530
 
 The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
-Repo id: `1.78-amoled-368x448-qspi-co5300`
+Repo id: `amoled-1.78-368x448-qspi-co5300`
 
 ---
 
