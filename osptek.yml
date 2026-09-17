@@ -1,0 +1,14 @@
+id: amoled-1.78-368x448-qspi-co5300
+category: displays
+
+size: "1.78"
+panel: amoled
+resolution: 368x448
+interface: [qspi]
+shape: rect
+
+versions:
+  - id: AM178Q368448LK
+    driver: CO5300
+    touch: CHSC6417
+    note: none
