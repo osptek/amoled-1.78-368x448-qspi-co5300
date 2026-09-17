@@ -6,6 +6,7 @@ panel: amoled
 resolution: 368x448
 interface: [qspi]
 shape: rect
+corner: rounded
 
 versions:
   - id: AM178Q368448LK
